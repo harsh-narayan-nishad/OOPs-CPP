@@ -1,0 +1,8 @@
+	Narayan : 12 : Greater
+
+	harshcd : "/Users/harshnarayannishad/Desktop/OOPs : CPP/Projects/hostelAccommodation-withFileHandling/"
+
+	harsh : 2 : Fa
+
+	Rohit : 3 : Foh
+
